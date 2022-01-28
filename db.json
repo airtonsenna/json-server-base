@@ -9,47 +9,41 @@
     }
   ],
   "items": [
-    {
-      "id": 1,
-      "title": "X-Salada-Kenzie",
-      "description": "Sanduíche",
-      "price": 19,
-      "image_url": "http://static.aproveitaabc.com.br/images/2250_sal-1.png"
+    { "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14.00,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png" 
     },
-    {
-      "id": 2,
-      "title": "X-Bacon-Kenzie",
-      "description": "Sanduíche",
-      "price": 25,
-      "image_url": "https://i1.wp.com/boloideal.com.br/wp-content/uploads/2017/05/x-bacon.png?fit=600%2C600&ssl=1"
+    { "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16.00,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png" 
     },
-    {
-      "id": 3,
-      "title": "X-Tudo-Kenzie",
-      "description": "Sanduíche",
-      "price": 29,
-      "image_url": "https://s3-sa-east-1.amazonaws.com/deliveryon-uploads/products/traillerdoserginho/76_55afa529b0ae0.jpg"
+    { "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18.00,
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png" 
     },
-    {
-      "id": 4,
-      "title": "Fanta",
-      "description": "Bebida",
-      "price": 15,
-      "image_url": "https://cdn.awsli.com.br/300x300/514/514079/produto/39591649/5c91c74854.jpg"
+    { "id": 4,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5.00,
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png" 
     },
-    {
-      "id": 5,
-      "title": "Coca-cola",
-      "description": "Bebida",
-      "price": 15,
-      "image_url": "https://http2.mlstatic.com/D_NQ_NP_617269-MLB43334527422_092020-O.jpg"
+    { "id": 5,
+      "name": "Coca-Cola",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img":"https://i.ibb.co/fxCGP7k/coca-cola.png" 
     },
-    {
-      "id": 6,
-      "title": "Guaraná",
-      "description": "Bebida",
-      "price": 15,
-      "image_url": "http://d2r9epyceweg5n.cloudfront.net/stores/001/212/823/products/c920646c411-7099fc8dc39d6f623015949402446838-640-0.jpg"
+    { "id": 6,
+      "name": "Milkshake Ovomaltine",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png" 
     }
   ]
 }
